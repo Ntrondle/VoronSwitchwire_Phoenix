@@ -26,8 +26,6 @@ This repository includes various additions, modifications, and improvements made
 
 If you have any suggestions, improvements, or additional modifications that you think would benefit the Voron Switchwire community, feel free to contribute! Whether it's code enhancements, new 3D designs, or documentation updates, your contributions are highly appreciated.
 
-Please follow the guidelines outlined in the CONTRIBUTING.md file for submitting contributions to this repository.
-
 ## License
 
 This repository is provided under the [GNU General Public License](LICENSE.md), granting users the freedom to use, modify, and distribute the code and designs within this repository, subject to certain conditions. Please refer to the LICENSE.md file for more information.
